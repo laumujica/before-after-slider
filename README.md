@@ -6,7 +6,7 @@ Component developed to showcase the before and after of design pieces, suitable 
 
 ## Example screenshot:
 
-![Dump](https://github.com/orangeable/css-before-and-after-image-slider/blob/master/example.gif?raw=true)
+![Dump](https://github.com/laumujica/before-after-slider/blob/ed4e4ddb3213f6d21bbd35d18bbecb82a772c8bf/example.gif)
 
 ## Read the original article:
 
